@@ -1,0 +1,2 @@
+INSERT INTO CARE_TAKER (name, email,contact) VALUES ('John Doe', 'john.doe@example.com','716-453-8765');
+INSERT INTO CARE_TAKER (name, email,contact) VALUES ('Jane Doe', 'jane.doe@example.com','716-457-8765');
