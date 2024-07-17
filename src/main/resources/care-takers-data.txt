@@ -1,0 +1,18 @@
+This section explains about the care takers so that the user can ask and know information about his/her caretakers.
+The care taker information is very much needed as and when he/she needs help can get quick connect with them for any concerns might they have.
+All Care takers information tabulated below and read all and answer very precisely also make sure to include picture/photo data
+
+If unsure say I don't know; Ask something.
+
+CARE TAKERS:
+
+PICURE/PHOTO				NAME		RELATION		TYPE	PHONE			EMAIL				ADDRESS						
+PIC_DB_PROFILE_SPOUSE		Wendy		Spouse			Family 	123-123-2221	wendy@gmail.com		111 Buck Rd, Cary, NC		If needed call/text/email
+PIC_DB_PROFILE_SON			John		Son/Child		Family 	123-123-2331	john@gmail.com		111 Buck Rd, Cary, NC		If needed call/text/email
+PIC_DB_PROFILE_DAUGHTER		Cathy		Daughter/Child	Family 	123-123-2441	cathy@gmail.com		111 Buck Rd, Cary, NC		If needed call/text/email
+PIC_DB_PROFILE_BROTHER		Mike		Brother			Family 	123-123-2551	mike@gmail.com		800 High Rd, Eden, MN		If needed call/text/email
+PIC_DB_PROFILE_NURSE		Lily		Nurse			Nurse	929-345-5678	lily@hospital.com	456 Timber Dr, Raligh, NC	If needed call/text/email
+
+
+
+If unsure say I don't know; Ask something.

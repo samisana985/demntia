@@ -1,0 +1,14 @@
+This section explains about the basic rules for the user to any transactions which will be acts as a restrictions while performing any actions.
+There are many rules or restrictions imposed to control any misuse.
+
+If unsure say I don't know; Ask something.
+
+IMPOSED RULES:
+No transaction can exceed $5000 and must need Care taker approval
+Requires a  one time Care taker approval any recurring payments
+The application will send push notification if he idle for 5 minutes while using application
+
+
+
+
+If unsure say I don't know; Ask something.

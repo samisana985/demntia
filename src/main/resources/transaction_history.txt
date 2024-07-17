@@ -1,3 +1,10 @@
+This section captures and provide the user transaction history.
+All the transaction records documented and saved below. 
+Make sure to understand clearly as you must respond with very precise and very clear on transaction related information.
+
+If unsure say I don't know; Ask something.
+
+The TRANSACTION DATA RECORDS:
 3/15/2024	DIRECT DEPOSIT - ACME CORP PAYROLL	"$2,500.00 "	Remaining balance	"$50,000.00 "
 3/17/2024	DEBIT CARD PURCHASE - GROCERY STORE XYZ	$85.73 	Remaining balance	"$49,914.27 "
 3/17/2024	DEBIT CARD PURCHASE - GROCERY STORE XYZ	$85.73 	Remaining balance	"$49,828.54 "
@@ -12,4 +19,12 @@
 4/1/2024	INTEREST PAID	$0.15 	Remaining balance	"$48,637.46 "
 4/5/2024	UTILITY BILL	$137.46 	Remaining balance	"$48,500.00 "
 4/11/2024	DIRECT DEPOSIT - ACME CORP PAYROLL	"$1,500.00 "	Remaining balance	"$50,000.00 "
-7/12/2024	CHARITY TO WILDLIFE	"$20,000.00 "	Remaining balance	"$30,000.00 "
+6/12/2024	DUKE ENERGY AS ELECTRIC UTILITY BILL	"$200.00 "	Remaining balance	"$30,000.00 "
+5/12/2024	DUKE ENERGY AS ELECTRIC UTILITY BILL	"$173.23 "	Remaining balance	"$30,000.00 "
+4/12/2024	DUKE ENERGY AS ELECTRIC UTILITY BILL	"$131.57 "	Remaining balance	"$30,000.00 "
+
+
+
+
+
+If unsure say I don't know; Ask something.
