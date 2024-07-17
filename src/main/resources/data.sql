@@ -1,2 +1,5 @@
-INSERT INTO CARE_TAKER (name, email,contact) VALUES ('John Doe', 'john.doe@example.com','716-453-8765');
-INSERT INTO CARE_TAKER (name, email,contact) VALUES ('Jane Doe', 'jane.doe@example.com','716-457-8765');
+INSERT INTO CARE_TAKER (name, relation, type, phone, email, address, note) VALUES ('Wendy','Spouse','Family','123-123-2221','wendy@gmail.com','111 Buck Rd, Cary, NC','If needed call/text/email');
+INSERT INTO CARE_TAKER (name, relation, type, phone, email, address, note) VALUES ('John','Son/Child','Family','123-123-2331','john@gmail.com','111 Buck Rd, Cary, NC','If needed call/text/email');
+INSERT INTO CARE_TAKER (name, relation, type, phone, email, address, note) VALUES ('Cathy','Daughter/Child','Family','123-123-2441','cathy@gmail.com','111 Buck Rd, Cary, NC','If needed call/text/email');
+INSERT INTO CARE_TAKER (name, relation, type, phone, email, address, note) VALUES ('Mike','Brother','Family','123-123-2551','mike@gmail.com','800 High Rd, Eden, MN','If needed call/text/email');
+INSERT INTO CARE_TAKER (name, relation, type, phone, email, address, note) VALUES ('Lily','Nurse','Nurse','929-345-5678','lily@hospital.com','456 Timber Dr, Raligh, NC','If needed call/text/email');
